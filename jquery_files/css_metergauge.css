@@ -1,0 +1,38 @@
+<link class="include" rel="stylesheet" type="text/css" href="./jquery_files/jquery.jqplot.min.css" />
+<link rel="stylesheet" type="text/css" href="./jquery_files/examples.min.css" />
+<link type="text/css" rel="stylesheet" href="./jquery_files/shCoreDefault.min.css" />
+<link type="text/css" rel="stylesheet" href="./jquery_files/shThemejqPlot.min.css" />
+<style type="text/css">
+		.plot {
+			margin-bottom: 0px;
+			margin-left: 0px;
+			margin-right: 0px;
+		}
+		#chart0 .jqplot-meterGauge-label {
+			font-size: 8pt;
+		}
+		#chart1 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart2 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart3 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart4 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart5 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart6 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		#chart7 .jqplot-meterGauge-tick, #chart0 .jqplot-meterGauge-tic {
+		font-size: 8pt;
+		}
+		grid: {
+ background: 'transparent' 
+}
+</style>
